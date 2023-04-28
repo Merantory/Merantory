@@ -1,6 +1,7 @@
 <!--
 ### Hi there 👋
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+java+backend+developer)](https://git.io/typing-svg)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Merantory&theme=dracula" />
